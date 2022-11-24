@@ -4,11 +4,25 @@ Work Scheduler
 
 ## Description
 
-You are presendted with a Work Scheduler with timeblocks for standard business hours. Each timeblock is color coded to indicate whether it is in the past, present, or future. When entering an event, click the save button for that timeblock to save in local storage and still be able to see it in each timeblock inside the schedule.
+You are presendted with a Work Scheduler with timeblocks for standard business hours.
+Each timeblock is color coded to indicate whether it is in the past, present, or future.
+When entering an event, click the save button for that timeblock to save in local storage and still be able to see it in each timeblock inside the schedule.
 
 ## Table of Contents
 
+- index.html
+- reset.css
+- scrip.js
+- style.css
+- Assets/Images
+- License
+- README.MD
+
 ## Credits
+
+- https://day.js.org/
+- https://getbootstrap.com/
+- https://jquery.com/
 
 ## Licence
 
@@ -36,4 +50,9 @@ SOFTWARE.
 
 ## Screenshot
 
+![Screenshot- View](./Assets/Images/scheduler-view.jpg)
+
 ## Weblink
+
+https://juang1908.github.io/Daily-Work-Schedule/
+https://github.com/Juang1908
